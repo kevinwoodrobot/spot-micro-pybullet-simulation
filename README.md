@@ -1,4 +1,4 @@
-# How to Run Spot Micro Simulation in Pybullet
+# Spot Micro Simulation in Pybullet
 In this tutorial, I will show you how to run the Spot Micro simulation with pybullet using python in VS Code. I will go through step by step from installing python, cloning the repo, installing all the necessary modules and the exact commands to run the simulation using the env_tester.py file. I will go over the different simulation modes for Spot Micro by using different command line arguments. Finally, I will go over the env_tester.py file and briefly discuss the structure of the code and the modules used in this simulation. 
 
 Click Img Below to See Youtube Video:
